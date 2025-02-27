@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sulinah Accountants</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        section {
+            padding: 20px;
+            background: #fff;
+            margin: 20px 0;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            padding: 10px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        .btn {
+            background: #28a745;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            display: inline-block;
+            margin-top: 10px;
+        }
+        .testimonials, .blog, .appointment {
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Sulinah Accountants</h1>
+        <p>Professional & Reliable Accounting Services</p>
+    </header>
+    
+    <div class="container">
+        <section>
+            <h2>About Us</h2>
+            <p>Sulinah Accountants, led by Nathan Sunkutu, a Chartered Accountant and ZICA member, offers expert financial solutions tailored to your business needs.</p>
+        </section>
+        
+        <section>
+            <h2>Our Services</h2>
+            <ul>
+                <li>Financial Reporting & Compliance</li>
+                <li>Bookkeeping & Payroll</li>
+                <li>Tax Advisory & Filing</li>
+                <li>Grant & Donor Financial Management</li>
+                <li>Business Advisory & Financial Planning</li>
+            </ul>
+        </section>
+        
+        <section class="testimonials">
+            <h2>Testimonials</h2>
+            <p>"Sulinah Accountants transformed our financial processes and helped us scale our business." - Client A</p>
+            <p>"Nathan and his team provided exceptional tax planning and advisory services." - Client B</p>
+        </section>
+        
+        <section class="blog">
+            <h2>Latest Blog Posts</h2>
+            <p><strong>Understanding Tax Compliance in 2025</strong> - A guide on staying compliant with tax laws.</p>
+            <p><strong>Financial Planning for Small Businesses</strong> - Tips on effective budgeting and financial management.</p>
+        </section>
+        
+        <section class="appointment">
+            <h2>Book an Appointment</h2>
+            <p>Schedule a free consultation with us to discuss your accounting needs.</p>
+            <a href="mailto:info@sulinahaccountants.com" class="btn">Book Now</a>
+        </section>
+        
+        <section>
+            <h2>Contact Us</h2>
+            <p>Email: info@sulinahaccountants.com</p>
+            <p>Phone: +260 XXX XXX XXX</p>
+            <a href="mailto:info@sulinahaccountants.com" class="btn">Get in Touch</a>
+        </section>
+    </div>
+    
+    <footer>
+        <p>&copy; 2025 Sulinah Accountants. All rights reserved.</p>
+    </footer>
+</body>
+</html>
